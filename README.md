@@ -1,5 +1,6 @@
+URL SHORTENER APPLICATION 
 
-Screenshots/Outputs of URLSHORTENEDWEBSITE
+Outputs of URLSHORTENER WEBSITE
 
 ![Screenshot from 2025-07-04 12-27-46](https://github.com/user-attachments/assets/c1e1f5dc-633b-434a-b0d8-df1c733bc1e2)
 ![Screenshot from 2025-07-04 12-28-21](https://github.com/user-attachments/assets/4f08978e-2f9c-4277-85b7-73c4c65f3c18)
